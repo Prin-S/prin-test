@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Prin Test
-Plugin URI: https://github.com/prin-test
+Plugin URI: https://github.com/Prin-S/prin-test
 Description: This is my first WordPress plugin
 Author: Prin S
 Author URI: https://github.com/Prin-S
